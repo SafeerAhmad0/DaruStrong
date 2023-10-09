@@ -12,7 +12,7 @@ const ButtonOne = (props) => {
                     fontSize: props.fontSize,
                     padding: props.padding,
                     fontFamily: props.fontFamily,
-                    width: props.width,
+                    width: props.width                                          ,
                     top: props.top,
                     left: props.left,
                     right: props.right,
