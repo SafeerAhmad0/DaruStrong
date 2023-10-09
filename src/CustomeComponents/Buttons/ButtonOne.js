@@ -31,7 +31,7 @@ const ButtonOne = (props) => {
 
                 <IconsOne 
                     name={props.iconName}
-                    iconSize={props.iconSize}
+                    iconSize={props.iconSize      }
                     iconColor={props.iconColor}
                     styleLeft={props.styleLeft}
                     styleBottom={props.styleBottom}
