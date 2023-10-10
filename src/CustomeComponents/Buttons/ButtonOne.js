@@ -17,7 +17,7 @@ const ButtonOne = (props) => {
                     left: props.left,
                     right: props.right,
                     borderRadius: props.borderRadius,
-                    backgroundColor: props.backgroundColor,
+                    backgroundColor: props.backgroundColor        ,
                 }}
                 onPress={props.onPress}
             >
